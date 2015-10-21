@@ -15,5 +15,3 @@ export function multiplication(...numbers) {
     });
     return mul;
 };
-
-
